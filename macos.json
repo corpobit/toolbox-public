@@ -1,0 +1,9 @@
+[
+    {
+      "app_name": "Application Name",
+      "logo_url": "https://path-to-logo.png",
+      "version": "1.0.0",
+      "needs_update": false,
+      "app_download_link": "https://download-url.com/app"
+    }
+  ]
