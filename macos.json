@@ -3,6 +3,7 @@
       "app_name": "Nexa",
       "logo_url": "https://corpobit.s3.eu-north-1.amazonaws.com/NexaLogo.svg",
       "version": "1.0.0",
+      "tags": ["first release"],
       "needs_update": false,
       "app_download_link": "https://corpobit.s3.eu-north-1.amazonaws.com/Nexa.app.zip"
     },
@@ -10,6 +11,7 @@
         "app_name": "Nexterm",
         "logo_url": "https://www.freeiconspng.com/uploads/command-line-icon-1.png",
         "version": "1.0.0",
+        "tags": ["fFree for commercial use"],
         "needs_update": false,
         "app_download_link": "https://corpobit.s3.eu-north-1.amazonaws.com/nexterm.app.zip"
       }
