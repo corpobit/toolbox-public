@@ -4,6 +4,6 @@
       "logo_url": "https://corpobit.s3.eu-north-1.amazonaws.com/NexaLogo.svg",
       "version": "1.0.0",
       "needs_update": false,
-      "app_download_link": "https://download-url.com/app"
+      "app_download_link": "https://corpobit.s3.eu-north-1.amazonaws.com/Nexa.app.zip"
     }
   ]
