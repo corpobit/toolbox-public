@@ -10,9 +10,9 @@
     {
         "app_name": "Nexterm",
         "logo_url": "https://www.freeiconspng.com/uploads/command-line-icon-1.png",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "tags": ["Free for commercial use"],
-        "needs_update": false,
+        "needs_update": true,
         "app_download_link": "https://corpobit.s3.eu-north-1.amazonaws.com/nexterm.app.zip"
       }
   ]
